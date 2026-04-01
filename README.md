@@ -1,7 +1,8 @@
 Cash Flow & Financial Performance Dashboard
 
 I. PROJECT OVERVIEW
-This project focuses on analyzing a company’s financial health through a **Business Intelligence dashboard, with a case study of PT Unilever Indonesia Tbk.
+
+This project focuses on analyzing a company’s financial health through a Business Intelligence dashboard, with a case study of PT Unilever Indonesia Tbk.
 The dashboard is designed to evaluate cash flow performance, profitability, and working capital efficiency, helping to uncover insights that support better business decision-making.
 ---
 
